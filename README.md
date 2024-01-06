@@ -19,6 +19,6 @@ It is an unsupervised algorithm that can work well for separating the different 
 
 
 
-## Authors
+## Author
 
 - [Anand Babu](https://github.com/ABnano)
